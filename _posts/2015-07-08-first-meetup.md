@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: Maptime: B.Y.O.B
+title: Maptime&#58; B.Y.O.B
 rsvp: http://www.meetup.com/MaptimeNOLA/events/223397706/
 ---
 This Maptime thing is just what it sounds like: a time for maps. ALL THINGS MAPS. Yes. That covers a lot. We'll be meeting every 2nd Wednesday. 
