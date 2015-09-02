@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: Maptime: OpenStreetMap
+title: Maptime&#58; OpenStreetMap
 rsvp: http://www.meetup.com/MaptimeNOLA/events/223423436/
 ---
 
