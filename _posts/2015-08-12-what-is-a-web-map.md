@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: Maptime: What is a Web Map?
+title: Maptime&#58; What is a Web Map?
 rsvp: http://www.meetup.com/MaptimeNOLA/events/223423399/
 ---
 
