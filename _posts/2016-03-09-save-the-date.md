@@ -6,8 +6,6 @@ rsvp: http://www.meetup.com/MaptimeNOLA/events/228900061/
 ---
 *LOCATION CHANGE*: We'll be meeting in the Boundless offices at [Landing Zone](http://www.lznola.org/) this month. Details below. 
 
-# Maptime March 2016
-
 We've talked about feature layers. We've talked about mapping libraries. We've talked about data sources. This month, we're tackling Tile Servers!
 
 So how do we *actually* get the source material for tile servers? Those images gotta come from somewhere. Somehow a photograph taken from the sky gets turned into the type of data we need to use in a tile server and ends up on our screen in neat seamless tiles. Magic? Maybe. But we're in luck, because Elias loup is gonna walk us through how tile servers work. Elias works with the Geospatial Computing Section of NRL and wrote a [textbook](https://books.google.com/books/about/Tile_Based_Geospatial_Information_System.html?id=nK7MpP3iiCcC&source=kp_cover&hl=en) that covers a lot of cool stuff: Tile-Based Geospatial Information Systems: Principles and Practices. 
