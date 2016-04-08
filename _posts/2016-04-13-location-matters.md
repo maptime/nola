@@ -12,6 +12,7 @@ We all use location aware applications in our day-to-day life.  This not only he
 Pizza and geo-gossip @ 6pm   
 Discussion & tutorial @ 7pm  
 (Lock-up @ 9pm)
+*LOCATION CHANGE*: We'll be meeting in the Boundless offices at [Landing Zone](http://www.lznola.org/) this month. Details below. 
 
 # Landing Zone Info
 
