@@ -25,7 +25,7 @@ Discussion & tutorial @ 7pm
 
 There is a parking lot on the St Thomas/Felicity corner but a lot of people usually park in the neutral ground triangle thing and on occasional street parking. Parking behind the building is not public (marked in red).
 
-The front door has a temp code for us (1105#) and you take an immediate left to enter the Landing Zone.  We'll be downstairs in the kitchen/break area which has tables, couches, chairs and TVs we can use. 
+The front door has a temp code for us and you take an immediate left to enter the Landing Zone.  We'll be downstairs in the kitchen/break area which has tables, couches, chairs and TVs we can use. 
 
 Jackson (91) and Tchop (10) buses will stop right in front, too.
 ![Parking](http://photos4.meetupstatic.com/photos/event/b/8/c/0/600_447647296.jpeg)
