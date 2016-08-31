@@ -4,7 +4,7 @@ category: event
 title: A Brief Introduction to Geographic Data Formats & A Crash Course in Carto...(DB)
 rsvp: https://www.meetup.com/MaptimeNOLA/events/233759256/
 ---
-We missed you in August, so we're brining you a two-fer September! Bring a machine if you've got it - we'll be making a map or two. 
+Whew! What a title. We missed you in August, so we're brining you a two-fer September! Bring a machine if you've got it - we'll be making a map or two. 
 
 We'll start with a basic overview of a few data formats you might've heard buzzing around (shapefile, kml, wfs, geojson, geotiff). If you've got favorite tricks or tools for file transformations now's your time to shine.
 
